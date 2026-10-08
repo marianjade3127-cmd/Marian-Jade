@@ -12,7 +12,7 @@ export default function Home() {
       <nav className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <h1 className="text-xl font-bold text-cyan-400">
-            Programmer Profile
+            Marian Jade
           </h1>
 
           <button
